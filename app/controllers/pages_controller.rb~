@@ -1,0 +1,10 @@
+class PagesController < ApplicationController
+  def home
+  end
+  
+  def about
+  end
+
+  def "Please_Do_Not_Click_Me"
+  end
+end
