@@ -1,1 +1,11 @@
 Sales.create!(quantity: 1)
+Sales.find_by_id(1)
+
+go in controllers folder which contains the read, write, edit actions
+
+view side contains the templates (anything that the users would see) and create
+a form to either CRUD [ c- create(actions in controller) r - read u - update e.g. edit records d - delete]
+
+^^a CRUD app 
+
+
